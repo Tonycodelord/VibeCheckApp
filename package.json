@@ -1,0 +1,26 @@
+{
+  "name": "vibecheckapp",
+  "version": "1.0.0",
+  "description": "🌟 VibeCheck App - Summary & Purpose\r VibeCheck is a social networking app that allows users to express their mood in real-time and connect with others based on emotions. The app provides a fun, interactive, and visually engaging way to share emotions through mood-based posts, messaging, and a public feed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tonycodelord/VibeCheckApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tonycodelord/VibeCheckApp/issues"
+  },
+  "homepage": "https://github.com/Tonycodelord/VibeCheckApp#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1"
+  }
+}
